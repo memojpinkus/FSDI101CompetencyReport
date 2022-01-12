@@ -1,0 +1,48 @@
+h1{
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-align: center;
+    letter-spacing: 10px;
+    word-spacing: 30px;
+    color: pink;
+    font-size: 50px;
+}
+h3{
+    background-color: bisque;
+    font-size: 20px;
+    color: gray;
+    width: 500px;
+    text-align: center;
+}
+.text{
+    line-height: 2;
+    font-size: 18px;
+    width: 80%;
+    text-transform: uppercase;
+}
+.blue-bg{
+    background-color: lightblue;
+}
+.green-bg{
+    background-color: lightgreen;
+}
+mark{
+    background-color: pink;
+}
+@keyframes blink{
+
+    from{
+        color: #FFD100;
+    }
+    to{
+        color: white;
+    }
+}
+p{
+    letter-spacing: 5px;
+    margin: 0%;
+}
+.bg-yellowpastel
+{
+    background-color: palegoldenrod;
+}
